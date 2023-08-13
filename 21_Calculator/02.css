@@ -1,0 +1,42 @@
+.calc {
+    width: 40%;
+    border: 2px solid #036203;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: #e2f9e2;
+}
+
+.result {
+    width: 99%;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid #646464;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.slim {
+    background-color: white;
+    border: 1px solid #c4c4c4;
+    width: 16%;
+    min-height: 30px;
+    font-weight: bold;
+}
+
+button {
+    cursor: pointer;
+}
+
+.medium {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 32%;
+    height: 60px;
+    margin-bottom: 10px;
+    margin-left: 4px;
+}
+.width{
+    width: 99% !important;
+}
